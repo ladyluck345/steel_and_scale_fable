@@ -11,7 +11,7 @@ Information is available about the following topics
 [[Lore/Deity/Deity\|Deity]] - Information on the Major and Minor Gods
 [[Lore/Systems of Magic/Systems of Magic\|Systems of Magic]] - The different forms of magic
 [[Lore/Species/Species\|Species]] - A type of sapient (usually playable) creatures
-
+[[Lore/Languages\|Languages]] - A list of available Languages
 
 
 [[Amnesty/Amnesty\|Amnesty]] - A City state created on the border to a Wild Land.
