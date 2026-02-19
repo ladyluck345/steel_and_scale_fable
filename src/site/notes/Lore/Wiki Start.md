@@ -3,10 +3,6 @@
 ---
 
 
-dg-home: true
-dg-publish: true
----
-
 Greetings,
 Welcome to Seventh Citadel's repository of all knowledge about the world known as Fable.
 
