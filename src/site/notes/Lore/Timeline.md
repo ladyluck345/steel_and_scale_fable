@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/timeline/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/lore/timeline/"}
 ---
 
 A timeline of events mostly in the [[Nameless Lands/Nameless Lands\|Nameless Lands]].
