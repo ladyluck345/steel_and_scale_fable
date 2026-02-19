@@ -18,14 +18,18 @@ Information is available about the following topics
 
 [[Avalon/Avalon\|Avalon]] - The land dominated by a wild Land and bordering another.
 
-[[Badlands/Badlands\|Badlands]] -Also known as Scheherazade, it is home to various ex-Dracula vassals and small kingdoms surrounding the limited resources.
+[[Scheherazade/Scheherazade\|Scheherazade]] -Also known as The Badlands, it is home to various ex-Dracula vassals and small kingdoms surrounding the limited resources.
 
 [[Scalehold/Scalehold\|Scalehold]] - The land of Dragons and intense elemental diversity.
 
-[[God's Blood Archipelago/God's Blood Archipelago\|God's Blood Archipelago]] - The system of island nations that were created after the fight between The Heavenly Host and The Adversary.
+[[God's Blood Archipelago/God's Blood Archipelago\|God's Blood Archipelago]] - The system of island nations that were created after the fight between The Heavenly Host and The Adversary.  
 
 The [[Nameless Lands/Nameless Lands\|Nameless Lands]] - The home to the nations of the Lords Council.
+
+
 
 [[Útgarða/Útgarða\|Útgarða]] - The nation home to the Clans and a landscape that is frozen but alive.
 
 [[Xianxia/Xianxia\|Xianxia]] - The home to the 5 Dynasties and known for their relations with spirits.
+
+[[Lore/Timeline\|Timeline]] A timeline of events pertaining to the [[Nameless Lands/Nameless Lands\|Nameless Lands]].
